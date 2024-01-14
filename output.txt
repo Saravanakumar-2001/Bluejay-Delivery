@@ -1,0 +1,302 @@
+Position ID: WFS000054 has worked for more than 14 hours in a single shift.
+Position ID: WFS000065 has less than 10 hours between shifts.
+Position ID: WFS000065 has worked for more than 14 hours in a single shift.
+Position ID: WFS000101 has worked for 7 consecutive days.
+Position ID: WFS000101 has less than 10 hours between shifts.
+Position ID: WFS000101 has worked for more than 14 hours in a single shift.
+Position ID: WFS000127 has worked for 7 consecutive days.
+Position ID: WFS000127 has less than 10 hours between shifts.
+Position ID: WFS000127 has worked for more than 14 hours in a single shift.
+Position ID: WFS000153 has worked for 7 consecutive days.
+Position ID: WFS000153 has less than 10 hours between shifts.
+Position ID: WFS000153 has worked for more than 14 hours in a single shift.
+Position ID: WFS000170 has worked for 7 consecutive days.
+Position ID: WFS000170 has less than 10 hours between shifts.
+Position ID: WFS000170 has worked for more than 14 hours in a single shift.
+Position ID: WFS000174 has worked for 7 consecutive days.
+Position ID: WFS000174 has worked for more than 14 hours in a single shift.
+Position ID: WFS000180 has worked for 7 consecutive days.
+Position ID: WFS000180 has less than 10 hours between shifts.
+Position ID: WFS000180 has worked for more than 14 hours in a single shift.
+Position ID: WFS000181 has worked for 7 consecutive days.
+Position ID: WFS000181 has less than 10 hours between shifts.
+Position ID: WFS000181 has worked for more than 14 hours in a single shift.
+Position ID: WFS000183 has worked for 7 consecutive days.
+Position ID: WFS000183 has less than 10 hours between shifts.
+Position ID: WFS000183 has worked for more than 14 hours in a single shift.
+Position ID: WFS000185 has worked for 7 consecutive days.
+Position ID: WFS000185 has less than 10 hours between shifts.
+Position ID: WFS000185 has worked for more than 14 hours in a single shift.
+Position ID: WFS000196 has worked for 7 consecutive days.
+Position ID: WFS000196 has worked for more than 14 hours in a single shift.
+Position ID: WFS000200 has worked for 7 consecutive days.
+Position ID: WFS000200 has less than 10 hours between shifts.
+Position ID: WFS000200 has worked for more than 14 hours in a single shift.
+Position ID: WFS000226 has worked for 7 consecutive days.
+Position ID: WFS000226 has less than 10 hours between shifts.
+Position ID: WFS000226 has worked for more than 14 hours in a single shift.
+Position ID: WFS000228 has worked for 7 consecutive days.
+Position ID: WFS000228 has less than 10 hours between shifts.
+Position ID: WFS000228 has worked for more than 14 hours in a single shift.
+Position ID: WFS000246 has worked for 7 consecutive days.
+Position ID: WFS000246 has less than 10 hours between shifts.
+Position ID: WFS000246 has worked for more than 14 hours in a single shift.
+Position ID: WFS000256 has worked for 7 consecutive days.
+Position ID: WFS000256 has worked for more than 14 hours in a single shift.
+Position ID: WFS000268 has worked for 7 consecutive days.
+Position ID: WFS000268 has less than 10 hours between shifts.
+Position ID: WFS000268 has worked for more than 14 hours in a single shift.
+Position ID: WFS000306 has worked for 7 consecutive days.
+Position ID: WFS000306 has less than 10 hours between shifts.
+Position ID: WFS000306 has worked for more than 14 hours in a single shift.
+Position ID: WFS000318 has worked for 7 consecutive days.
+Position ID: WFS000318 has less than 10 hours between shifts.
+Position ID: WFS000318 has worked for more than 14 hours in a single shift.
+Position ID: WFS000336 has worked for 7 consecutive days.
+Position ID: WFS000336 has worked for more than 14 hours in a single shift.
+Position ID: WFS000345 has worked for 7 consecutive days.
+Position ID: WFS000345 has less than 10 hours between shifts.
+Position ID: WFS000345 has worked for more than 14 hours in a single shift.
+Position ID: WFS000360 has worked for 7 consecutive days.
+Position ID: WFS000360 has less than 10 hours between shifts.
+Position ID: WFS000360 has worked for more than 14 hours in a single shift.
+Position ID: WFS000362 has worked for 7 consecutive days.
+Position ID: WFS000362 has less than 10 hours between shifts.
+Position ID: WFS000362 has worked for more than 14 hours in a single shift.
+Position ID: WFS000364 has worked for 7 consecutive days.
+Position ID: WFS000364 has less than 10 hours between shifts.
+Position ID: WFS000364 has worked for more than 14 hours in a single shift.
+Position ID: WFS000368 has worked for 7 consecutive days.
+Position ID: WFS000368 has less than 10 hours between shifts.
+Position ID: WFS000368 has worked for more than 14 hours in a single shift.
+Position ID: WFS000372 has worked for 7 consecutive days.
+Position ID: WFS000372 has less than 10 hours between shifts.
+Position ID: WFS000372 has worked for more than 14 hours in a single shift.
+Position ID: WFS000382 has worked for 7 consecutive days.
+Position ID: WFS000382 has worked for more than 14 hours in a single shift.
+Position ID: WFS000391 has worked for 7 consecutive days.
+Position ID: WFS000391 has less than 10 hours between shifts.
+Position ID: WFS000391 has worked for more than 14 hours in a single shift.
+Position ID: WFS000393 has worked for 7 consecutive days.
+Position ID: WFS000393 has less than 10 hours between shifts.
+Position ID: WFS000393 has worked for more than 14 hours in a single shift.
+Position ID: WFS000412 has worked for 7 consecutive days.
+Position ID: WFS000412 has less than 10 hours between shifts.
+Position ID: WFS000412 has worked for more than 14 hours in a single shift.
+Position ID: WFS000414 has worked for 7 consecutive days.
+Position ID: WFS000414 has less than 10 hours between shifts.
+Position ID: WFS000414 has worked for more than 14 hours in a single shift.
+Position ID: WFS000418 has worked for 7 consecutive days.
+Position ID: WFS000418 has less than 10 hours between shifts.
+Position ID: WFS000418 has worked for more than 14 hours in a single shift.
+Position ID: WFS000420 has worked for 7 consecutive days.
+Position ID: WFS000420 has less than 10 hours between shifts.
+Position ID: WFS000420 has worked for more than 14 hours in a single shift.
+Position ID: WFS000424 has worked for 7 consecutive days.
+Position ID: WFS000424 has less than 10 hours between shifts.
+Position ID: WFS000424 has worked for more than 14 hours in a single shift.
+Position ID: WFS000426 has worked for 7 consecutive days.
+Position ID: WFS000426 has less than 10 hours between shifts.
+Position ID: WFS000426 has worked for more than 14 hours in a single shift.
+Position ID: WFS000432 has worked for 7 consecutive days.
+Position ID: WFS000432 has worked for more than 14 hours in a single shift.
+Position ID: WFS000434 has worked for 7 consecutive days.
+Position ID: WFS000434 has less than 10 hours between shifts.
+Position ID: WFS000434 has worked for more than 14 hours in a single shift.
+Position ID: WFS000436 has worked for 7 consecutive days.
+Position ID: WFS000436 has worked for more than 14 hours in a single shift.
+Position ID: WFS000442 has worked for 7 consecutive days.
+Position ID: WFS000442 has less than 10 hours between shifts.
+Position ID: WFS000442 has worked for more than 14 hours in a single shift.
+Position ID: WFS000446 has worked for 7 consecutive days.
+Position ID: WFS000446 has less than 10 hours between shifts.
+Position ID: WFS000446 has worked for more than 14 hours in a single shift.
+Position ID: WFS000456 has worked for 7 consecutive days.
+Position ID: WFS000456 has less than 10 hours between shifts.
+Position ID: WFS000456 has worked for more than 14 hours in a single shift.
+Position ID: WFS000457 has worked for 7 consecutive days.
+Position ID: WFS000457 has less than 10 hours between shifts.
+Position ID: WFS000457 has worked for more than 14 hours in a single shift.
+Position ID: WFS000460 has worked for 7 consecutive days.
+Position ID: WFS000460 has worked for more than 14 hours in a single shift.
+Position ID: WFS000462 has worked for 7 consecutive days.
+Position ID: WFS000462 has less than 10 hours between shifts.
+Position ID: WFS000462 has worked for more than 14 hours in a single shift.
+Position ID: WFS000463 has worked for 7 consecutive days.
+Position ID: WFS000463 has less than 10 hours between shifts.
+Position ID: WFS000463 has worked for more than 14 hours in a single shift.
+Position ID: WFS000465 has worked for 7 consecutive days.
+Position ID: WFS000465 has less than 10 hours between shifts.
+Position ID: WFS000465 has worked for more than 14 hours in a single shift.
+Position ID: WFS000469 has worked for 7 consecutive days.
+Position ID: WFS000469 has less than 10 hours between shifts.
+Position ID: WFS000469 has worked for more than 14 hours in a single shift.
+Position ID: WFS000473 has worked for 7 consecutive days.
+Position ID: WFS000473 has less than 10 hours between shifts.
+Position ID: WFS000473 has worked for more than 14 hours in a single shift.
+Position ID: WFS000477 has worked for 7 consecutive days.
+Position ID: WFS000477 has less than 10 hours between shifts.
+Position ID: WFS000477 has worked for more than 14 hours in a single shift.
+Position ID: WFS000491 has worked for 7 consecutive days.
+Position ID: WFS000491 has less than 10 hours between shifts.
+Position ID: WFS000491 has worked for more than 14 hours in a single shift.
+Position ID: WFS000495 has worked for 7 consecutive days.
+Position ID: WFS000495 has less than 10 hours between shifts.
+Position ID: WFS000495 has worked for more than 14 hours in a single shift.
+Position ID: WFS000496 has worked for 7 consecutive days.
+Position ID: WFS000496 has less than 10 hours between shifts.
+Position ID: WFS000496 has worked for more than 14 hours in a single shift.
+Position ID: WFS000499 has worked for 7 consecutive days.
+Position ID: WFS000499 has less than 10 hours between shifts.
+Position ID: WFS000499 has worked for more than 14 hours in a single shift.
+Position ID: WFS000500 has worked for 7 consecutive days.
+Position ID: WFS000500 has less than 10 hours between shifts.
+Position ID: WFS000500 has worked for more than 14 hours in a single shift.
+Position ID: WFS000501 has worked for 7 consecutive days.
+Position ID: WFS000501 has less than 10 hours between shifts.
+Position ID: WFS000501 has worked for more than 14 hours in a single shift.
+Position ID: WFS000503 has worked for 7 consecutive days.
+Position ID: WFS000503 has less than 10 hours between shifts.
+Position ID: WFS000503 has worked for more than 14 hours in a single shift.
+Position ID: WFS000505 has worked for 7 consecutive days.
+Position ID: WFS000505 has less than 10 hours between shifts.
+Position ID: WFS000505 has worked for more than 14 hours in a single shift.
+Position ID: WFS000507 has worked for 7 consecutive days.
+Position ID: WFS000507 has less than 10 hours between shifts.
+Position ID: WFS000507 has worked for more than 14 hours in a single shift.
+Position ID: WFS000508 has worked for 7 consecutive days.
+Position ID: WFS000508 has less than 10 hours between shifts.
+Position ID: WFS000508 has worked for more than 14 hours in a single shift.
+Position ID: WFS000509 has worked for 7 consecutive days.
+Position ID: WFS000509 has less than 10 hours between shifts.
+Position ID: WFS000509 has worked for more than 14 hours in a single shift.
+Position ID: WFS000511 has worked for 7 consecutive days.
+Position ID: WFS000511 has less than 10 hours between shifts.
+Position ID: WFS000511 has worked for more than 14 hours in a single shift.
+Position ID: WFS000514 has worked for 7 consecutive days.
+Position ID: WFS000514 has less than 10 hours between shifts.
+Position ID: WFS000514 has worked for more than 14 hours in a single shift.
+Position ID: WFS000515 has worked for 7 consecutive days.
+Position ID: WFS000515 has less than 10 hours between shifts.
+Position ID: WFS000515 has worked for more than 14 hours in a single shift.
+Position ID: WFS000517 has worked for 7 consecutive days.
+Position ID: WFS000517 has less than 10 hours between shifts.
+Position ID: WFS000517 has worked for more than 14 hours in a single shift.
+Position ID: WFS000518 has worked for 7 consecutive days.
+Position ID: WFS000518 has less than 10 hours between shifts.
+Position ID: WFS000518 has worked for more than 14 hours in a single shift.
+Position ID: WFS000519 has worked for 7 consecutive days.
+Position ID: WFS000519 has less than 10 hours between shifts.
+Position ID: WFS000519 has worked for more than 14 hours in a single shift.
+Position ID: WFS000521 has worked for 7 consecutive days.
+Position ID: WFS000521 has less than 10 hours between shifts.
+Position ID: WFS000521 has worked for more than 14 hours in a single shift.
+Position ID: WFS000522 has worked for 7 consecutive days.
+Position ID: WFS000522 has less than 10 hours between shifts.
+Position ID: WFS000522 has worked for more than 14 hours in a single shift.
+Position ID: WFS000523 has worked for 7 consecutive days.
+Position ID: WFS000523 has less than 10 hours between shifts.
+Position ID: WFS000523 has worked for more than 14 hours in a single shift.
+Position ID: WFS000528 has worked for 7 consecutive days.
+Position ID: WFS000528 has less than 10 hours between shifts.
+Position ID: WFS000528 has worked for more than 14 hours in a single shift.
+Position ID: WFS000529 has worked for 7 consecutive days.
+Position ID: WFS000529 has worked for more than 14 hours in a single shift.
+Position ID: WFS000530 has worked for 7 consecutive days.
+Position ID: WFS000530 has worked for more than 14 hours in a single shift.
+Position ID: WFS000532 has worked for 7 consecutive days.
+Position ID: WFS000532 has worked for more than 14 hours in a single shift.
+Position ID: WFS000536 has worked for 7 consecutive days.
+Position ID: WFS000536 has less than 10 hours between shifts.
+Position ID: WFS000536 has worked for more than 14 hours in a single shift.
+Position ID: WFS000538 has worked for 7 consecutive days.
+Position ID: WFS000538 has less than 10 hours between shifts.
+Position ID: WFS000538 has worked for more than 14 hours in a single shift.
+Position ID: WFS000541 has worked for 7 consecutive days.
+Position ID: WFS000541 has less than 10 hours between shifts.
+Position ID: WFS000541 has worked for more than 14 hours in a single shift.
+Position ID: WFS000546 has worked for 7 consecutive days.
+Position ID: WFS000546 has less than 10 hours between shifts.
+Position ID: WFS000546 has worked for more than 14 hours in a single shift.
+Position ID: WFS000548 has worked for 7 consecutive days.
+Position ID: WFS000548 has less than 10 hours between shifts.
+Position ID: WFS000548 has worked for more than 14 hours in a single shift.
+Position ID: WFS000549 has worked for 7 consecutive days.
+Position ID: WFS000549 has less than 10 hours between shifts.
+Position ID: WFS000549 has worked for more than 14 hours in a single shift.
+Position ID: WFS000550 has worked for 7 consecutive days.
+Position ID: WFS000550 has less than 10 hours between shifts.
+Position ID: WFS000550 has worked for more than 14 hours in a single shift.
+Position ID: WFS000551 has worked for 7 consecutive days.
+Position ID: WFS000551 has less than 10 hours between shifts.
+Position ID: WFS000551 has worked for more than 14 hours in a single shift.
+Position ID: WFS000552 has worked for 7 consecutive days.
+Position ID: WFS000552 has less than 10 hours between shifts.
+Position ID: WFS000552 has worked for more than 14 hours in a single shift.
+Position ID: WFS000553 has worked for 7 consecutive days.
+Position ID: WFS000553 has worked for more than 14 hours in a single shift.
+Position ID: WFS000555 has worked for 7 consecutive days.
+Position ID: WFS000555 has less than 10 hours between shifts.
+Position ID: WFS000555 has worked for more than 14 hours in a single shift.
+Position ID: WFS000556 has worked for 7 consecutive days.
+Position ID: WFS000556 has less than 10 hours between shifts.
+Position ID: WFS000556 has worked for more than 14 hours in a single shift.
+Position ID: WFS000557 has worked for 7 consecutive days.
+Position ID: WFS000557 has less than 10 hours between shifts.
+Position ID: WFS000557 has worked for more than 14 hours in a single shift.
+Position ID: WFS000566 has worked for 7 consecutive days.
+Position ID: WFS000566 has less than 10 hours between shifts.
+Position ID: WFS000566 has worked for more than 14 hours in a single shift.
+Position ID: WFS000569 has worked for 7 consecutive days.
+Position ID: WFS000569 has less than 10 hours between shifts.
+Position ID: WFS000569 has worked for more than 14 hours in a single shift.
+Position ID: WFS000571 has worked for 7 consecutive days.
+Position ID: WFS000571 has less than 10 hours between shifts.
+Position ID: WFS000571 has worked for more than 14 hours in a single shift.
+Position ID: WFS000572 has worked for 7 consecutive days.
+Position ID: WFS000572 has less than 10 hours between shifts.
+Position ID: WFS000572 has worked for more than 14 hours in a single shift.
+Position ID: WFS000573 has worked for 7 consecutive days.
+Position ID: WFS000573 has less than 10 hours between shifts.
+Position ID: WFS000573 has worked for more than 14 hours in a single shift.
+Position ID: WFS000574 has worked for 7 consecutive days.
+Position ID: WFS000574 has less than 10 hours between shifts.
+Position ID: WFS000574 has worked for more than 14 hours in a single shift.
+Position ID: WFS000576 has worked for 7 consecutive days.
+Position ID: WFS000576 has less than 10 hours between shifts.
+Position ID: WFS000576 has worked for more than 14 hours in a single shift.
+Position ID: WFS000577 has worked for 7 consecutive days.
+Position ID: WFS000577 has less than 10 hours between shifts.
+Position ID: WFS000577 has worked for more than 14 hours in a single shift.
+Position ID: WFS000578 has worked for 7 consecutive days.
+Position ID: WFS000578 has less than 10 hours between shifts.
+Position ID: WFS000578 has worked for more than 14 hours in a single shift.
+Position ID: WFS000579 has worked for 7 consecutive days.
+Position ID: WFS000579 has less than 10 hours between shifts.
+Position ID: WFS000579 has worked for more than 14 hours in a single shift.
+Position ID: WFS000581 has worked for 7 consecutive days.
+Position ID: WFS000581 has less than 10 hours between shifts.
+Position ID: WFS000581 has worked for more than 14 hours in a single shift.
+Position ID: WFS000582 has worked for 7 consecutive days.
+Position ID: WFS000582 has less than 10 hours between shifts.
+Position ID: WFS000582 has worked for more than 14 hours in a single shift.
+Position ID: WFS000583 has worked for 7 consecutive days.
+Position ID: WFS000583 has less than 10 hours between shifts.
+Position ID: WFS000583 has worked for more than 14 hours in a single shift.
+Position ID: WFS000584 has worked for 7 consecutive days.
+Position ID: WFS000584 has less than 10 hours between shifts.
+Position ID: WFS000584 has worked for more than 14 hours in a single shift.
+Position ID: WFS000585 has worked for 7 consecutive days.
+Position ID: WFS000585 has less than 10 hours between shifts.
+Position ID: WFS000585 has worked for more than 14 hours in a single shift.
+Position ID: WFS000587 has worked for 7 consecutive days.
+Position ID: WFS000587 has less than 10 hours between shifts.
+Position ID: WFS000587 has worked for more than 14 hours in a single shift.
+Position ID: WFS000588 has worked for 7 consecutive days.
+Position ID: WFS000588 has less than 10 hours between shifts.
+Position ID: WFS000588 has worked for more than 14 hours in a single shift.
+Position ID: WFS000589 has worked for 7 consecutive days.
+Position ID: WFS000589 has less than 10 hours between shifts.
+Position ID: WFS000589 has worked for more than 14 hours in a single shift.
+Position ID: WFS000591 has worked for 7 consecutive days.
+Position ID: WFS000591 has worked for more than 14 hours in a single shift.
